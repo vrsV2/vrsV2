@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="https://files.catbox.moe/z5r2y1.gif" width="640" height="397">
+<img src="https://files.catbox.moe/h7nptn.gif" width="640" height="397">
 
 </p>
 <div align="center">
@@ -13,4 +13,4 @@
 </div>
 
 <p align="center">
-<img src="https://files.catbox.moe/kgkprv.png" width="487" height="56">
+<img src="https://files.catbox.moe/fjbx4c.png" width="487" height="56">
