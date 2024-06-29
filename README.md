@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=X-EVNT&label=DEMIGODS+SLAIN&color=d62803)
+</div>
 
-<!--
-**vrsV2/vrsV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://files.catbox.moe/t1np2x.gif" width="640" height="397">
 
-Here are some ideas to get you started:
+</p>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[about me](https://rentry.co/crosu) ⠀ ⠀[free 🇵🇸](https://arab.org/click-to-help/palestine/) ⠀ ⠀[sign my atabook](https://sakuya.atabook.org)
+</div>
+
+<p align="center">
+<img src="https://files.catbox.moe/kgkprv.png" width="487" height="56">
